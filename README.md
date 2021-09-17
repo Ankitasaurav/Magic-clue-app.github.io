@@ -22,7 +22,7 @@ Sit back and see your preferred favourite place being guessed by me.
 ## Screenshots
 ![Screenshot (3)](https://user-images.githubusercontent.com/87561020/133830038-cb647fc6-8851-41e2-80f3-1118570b3a97.png)
 ![Screenshot (5)](https://user-images.githubusercontent.com/87561020/133830034-cfc3ca13-f704-4828-b630-df7981ef449f.png)
-![App Screenshot![Screenshot (6)](https://user-images.githubusercontent.com/87561020/133830015-a9c3a41d-9991-4f3f-aca8-8e8f857d8831.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/87561020/133830015-a9c3a41d-9991-4f3f-aca8-8e8f857d8831.png)
 
 ## Deployment
 https://ankitasaurav.github.io/magic-clue-app.github.io/
