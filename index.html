@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Magic-Clue App</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- header -->
+    <h1>
+      Which one is your favourite place from following? Choose one and keep it
+      in your mind.
+    </h1>
+    <!-- main-container -->
+    <div class="place-container">
+      <div class="first">
+        <div class="box">
+          <img class="pic" src="Image/Italy.png" alt="" />
+          <p>ITALY</p>
+        </div>
+        <div class="box">
+          <img class="pic" src="Image/France.png" alt="" />
+          <p>FRANCE</p>
+        </div>
+        <div class="box">
+          <img class="pic" src="Image/Spain.png" alt="" />
+          <p>SPAIN</p>
+        </div>
+        <div class="box">
+          <img class="pic" src="Image/Germany.png" alt="" />
+          <p>GERMANY</p>
+        </div>
+      </div>
+      <div class="second">
+        <div class="box">
+          <img class="pic" src="Image/Greece.png" alt="" />
+          <p>GREECE</p>
+        </div>
+        <div class="box">
+          <img class="pic" src="Image/Australia.png" alt="" />
+          <p>AUSTRALIA</p>
+        </div>
+        <div class="box">
+          <img class="pic" src="Image/Brazil.png" alt="" />
+          <p>BRAZIL</p>
+        </div>
+        <div class="box">
+          <img class="pic" src="Image/Portugal.png" alt="" />
+          <p>PORTUGAL</p>
+        </div>
+      </div>
+    </div>
+    <div class="btn1">
+      <button class="done-btn">Done</button>
+    </div>
+
+    <!-- modal -1 -->
+
+    <div class="modal hidden1" id="modal-1">
+      <div class="bar-container">
+        <div class="progress-bar"></div>
+      </div>
+      <h1>Is your favourite place there in the following?</h1>
+
+      <p class="one"></p>
+      <p class="two"></p>
+      <p class="three"></p>
+      <p class="four"></p>
+
+      <div class="btn2">
+        <button class="modal-btn">No</button>
+        <button class="modal-btn">Yes</button>
+      </div>
+    </div>
+
+    <!-- modal - 2 -->
+    <div class="modal hidden2" id="modal-2">
+      <h1 class="place-name"></h1>
+
+      <img src="Image/Italy.png" alt="fav-place" class="fav-place" />
+
+      <div class="btn3">
+        <button class="play-again">Play again?</button>
+      </div>
+    </div>
+
+    <div class="overlay hidden1"></div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
