@@ -12,9 +12,9 @@ Tap on Done
 
 Instructions:
 
-•Select No if you don't find your preferred place in the list.
+- Select No if you don't find your preferred place in the list.
 
-•Press Yes if your favourite place is visible on that list. 
+- Press Yes if your favourite place is visible on that list. 
 
 Now,
 Sit back and see your preferred favourite place being guessed by me.
